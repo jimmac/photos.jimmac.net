@@ -1,8 +1,8 @@
 # Site settings
 title: Photos by Jimmac
-description: Placeholder
-baseurl: "/photos.jimmac.net" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+description: I've been shooting photos for over 20 years now. These are some carefuly selected picks. To see more up to date photos, see my flickr and instagram feeds below.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://photos.jimmac.net" # the base hostname & protocol for your site
 author:
 
 # Collection settings
@@ -12,14 +12,15 @@ collections:
 # Social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/jimmac
+gitlab_url: https://gitlab.com/u/jimmac
+googleplus_url: 
+instagram_url: https://instagram.com/jimmacfx_icons
+linkedin_url: 
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/jimmac
+flickr_url: https://www.flickr.com/photos/jakubsteiner/
 
 # Build settings
 markdown: kramdown
