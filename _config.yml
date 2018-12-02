@@ -2,7 +2,7 @@
 title: Photos by Jimmac
 description: I've been shooting photos for over 20 years now. These are some carefuly selected picks. To see more up to date photos, see my flickr and instagram feeds below.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://photos.jimmac.net" # the base hostname & protocol for your site
+url: "https://photos.jimmac.net" # the base hostname & protocol for your site
 author:
 
 # Collection settings
